@@ -1,0 +1,16 @@
+body {
+    background: pink;
+}
+
+.thumbnail img {
+    width: 100%;
+
+}
+
+.thumbnail {
+    padding: 0;
+}
+
+.delete-form {
+    display: inline;
+}
